@@ -1,0 +1,126 @@
+,id,label,template,placeholders,num_objects,verb_class_name,noun_class_name,start_frame,stop_frame
+959,61890,moving pencil up,Moving [something] up,['pencil'],1,Picking [something] up,pencil,1,37
+6745,130720,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,28
+5286,30872,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,26
+3540,19213,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,30
+2920,103465,moving pencil up,Moving [something] up,['pencil'],1,Picking [something] up,pencil,1,26
+4951,109234,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,30
+7059,32572,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,23
+3644,141067,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,27
+7999,215398,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,37
+13866,91685,picking pencil up,Picking [something] up,['pencil'],1,Picking [something] up,pencil,1,37
+13231,52999,taking pencil,Taking [one of many similar things on the table],['pencil'],1,Picking [something] up,pencil,1,57
+971,143017,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,40
+2095,101909,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,38
+1929,196440,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,29
+10057,159455,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,25
+8199,196088,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,27
+8140,4661,moving color pencil up,Moving [something] up,['color pencil'],1,Picking [something] up,pencil,1,27
+11142,18291,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,37
+7904,64924,moving color pencil up,Moving [something] up,['color pencil'],1,Picking [something] up,pencil,1,36
+6100,150358,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,27
+9050,12874,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,25
+9444,72749,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,30
+8780,75833,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,25
+14527,20237,taking pencil from cupboard,Taking [something] from [somewhere],"['pencil', 'cupboard']",2,Picking [something] up,pencil,1,59
+3124,104031,taking pencil out of jug,Taking [something] out of [something],"['pencil', 'jug']",2,Picking [something] up,pencil,1,39
+12649,178411,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+14716,173702,putting pencil,Putting [something similar to other things that are already on the table],['pencil'],1,Putting [something],pencil,1,29
+12327,57597,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+3850,199133,putting color pencil on a surface,Putting [something] on a surface,['color pencil'],1,Putting [something],pencil,1,32
+12260,41552,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,38
+11417,12422,putting pencil onto pc harddisk,Putting [something] onto [something],"['pencil', 'pc harddisk']",2,Putting [something],pencil,1,42
+4683,163996,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+390,21627,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,47
+5594,131674,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,38
+9542,17701,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,42
+6573,12279,putting pencil next to pencil,Putting [something] next to [something],"['pencil', 'pencil']",2,Putting [something],pencil,1,60
+11267,145652,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,32
+12213,95604,putting pencil onto container,Putting [something] onto [something],"['pencil', 'container']",2,Putting [something],pencil,1,56
+6404,45716,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,28
+3641,74887,putting a pencil onto a photo album,Putting [something] onto [something],"['a pencil', 'a photo album']",2,Putting [something],pencil,1,47
+2375,43441,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,30
+139,48771,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+10341,85929,putting pencil next to music-player,Putting [something] next to [something],"['pencil', 'music-player']",2,Putting [something],pencil,1,36
+2302,38531,putting pencil on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['pencil'],1,Putting [something],pencil,1,52
+3229,202695,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,22
+9165,157674,putting pencil,Putting [something similar to other things that are already on the table],['pencil'],1,Putting [something],pencil,1,41
+8716,129131,putting pencil on a surface,Putting [something] on a surface,['pencil'],1,Putting [something],pencil,1,56
+14026,14747,putting pencil,Putting [something similar to other things that are already on the table],['pencil'],1,Putting [something],pencil,1,44
+12333,124168,putting pencil on a surface,Putting [something] on a surface,['pencil'],1,Putting [something],pencil,1,37
+3567,80152,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,29
+5848,191611,throwing pencil in the air and letting it fall,Throwing [something] in the air and letting it fall,['pencil'],1,Dropping [something],pencil,1,48
+6748,180601,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,32
+10218,166682,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,28
+2989,10067,throwing pencil in the air and letting it fall,Throwing [something] in the air and letting it fall,['pencil'],1,Dropping [something],pencil,1,20
+2903,64528,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,30
+4634,42057,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,30
+6835,15223,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,35
+1040,203654,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,29
+10351,198229,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,30
+4497,24567,throwing pencil in the air and letting it fall,Throwing [something] in the air and letting it fall,['pencil'],1,Dropping [something],pencil,1,36
+166,198926,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,28
+11678,9309,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,26
+13096,204553,throwing a pencil in the air and letting it fall,Throwing [something] in the air and letting it fall,['a pencil'],1,Dropping [something],pencil,1,53
+2335,120485,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,30
+1796,198777,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,39
+11593,58499,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,26
+12634,165138,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,29
+2112,61449,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,26
+9263,85947,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,29
+9902,111429,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,26
+11697,78133,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,28
+1978,29961,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,30
+624,110639,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,27
+7978,3383,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,29
+11583,3005,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,39
+777,159429,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,29
+2105,1982,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,28
+5730,137237,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,38
+3949,109716,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,35
+2494,33156,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,40
+3134,32080,pushing pencil from left to right,Pushing [something] from left to right,['pencil'],1,Moving [something] from left to right,pencil,1,44
+2282,185948,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,43
+9637,31656,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,28
+13003,109186,pulling color pencils from left to right,Pulling [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,42
+8664,80428,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,28
+6620,154033,pushing pencil from left to right,Pushing [something] from left to right,['pencil'],1,Moving [something] from left to right,pencil,1,62
+11551,111909,pushing pencil from left to right,Pushing [something] from left to right,['pencil'],1,Moving [something] from left to right,pencil,1,60
+3716,190738,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,26
+8459,46545,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,35
+8714,160993,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,33
+12274,40561,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,26
+5822,10132,pulling color pencils from left to right,Pulling [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,41
+12064,6866,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,24
+9570,37646,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,31
+14440,160106,pulling a pencil from left to right,Pulling [something] from left to right,['a pencil'],1,Moving [something] from left to right,pencil,1,19
+221,30922,pushing color pencil from left to right,Pushing [something] from left to right,['color pencil'],1,Moving [something] from left to right,pencil,1,28
+9190,50498,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,40
+7992,204448,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,40
+6742,53446,pulling color pencils from left to right,Pulling [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,61
+6882,44780,pulling pencil from left to right,Pulling [something] from left to right,['pencil'],1,Moving [something] from left to right,pencil,1,36
+9319,48949,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+1594,103679,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,22
+9459,213179,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,60
+12170,27739,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,37
+10834,122587,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,26
+9228,198133,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,54
+8242,129898,pulling color pencils from right to left,Pulling [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,53
+1294,108998,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,36
+7272,185125,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+9506,177626,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+14449,71054,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,45
+2900,154872,pulling color pencils from right to left,Pulling [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,35
+171,122705,pushing color pencil from right to left,Pushing [something] from right to left,['color pencil'],1,Moving [something] from right to left,pencil,1,27
+11908,121352,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,62
+2068,93590,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+8385,187280,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,30
+12785,206676,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,39
+2458,176537,pushing a pencil from right to left,Pushing [something] from right to left,['a pencil'],1,Moving [something] from right to left,pencil,1,48
+9278,164858,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+12216,163212,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+3795,20676,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,34
+5345,178808,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,26
+9664,183689,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,29
+11787,31344,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+11972,140557,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,33

@@ -1,0 +1,376 @@
+,id,label,template,placeholders,num_objects,verb_class_name,noun_class_name,start_frame,stop_frame
+413,211215,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,31
+2521,151442,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,37
+5748,202942,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,29
+5431,52436,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,31
+7189,205848,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,40
+9888,168216,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,29
+3184,157222,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,26
+12459,161081,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,47
+678,38788,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,28
+5990,41573,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,28
+10394,117253,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,23
+11666,31901,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,26
+3839,199381,taking a pencil out of a jar,Taking [something] out of [something],"['a pencil', 'a jar']",2,Picking [something] up,pencil,1,51
+10317,96000,moving color pencils up,Moving [something] up,['color pencils'],1,Picking [something] up,pencil,1,37
+9876,145586,lifting pencil up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pencil'],1,Picking [something] up,pencil,1,29
+2928,136540,picking bottle up,Picking [something] up,['bottle'],1,Picking [something] up,bottle,1,47
+1723,28564,taking water bottle,Taking [one of many similar things on the table],['water bottle'],1,Picking [something] up,bottle,1,61
+8809,34945,picking bottle up,Picking [something] up,['bottle'],1,Picking [something] up,bottle,1,34
+14103,201811,taking bottle,Taking [one of many similar things on the table],['bottle'],1,Picking [something] up,bottle,1,47
+5704,26528,moving bottle up,Moving [something] up,['bottle'],1,Picking [something] up,bottle,1,47
+11179,104011,taking bottle from floor,Taking [something] from [somewhere],"['bottle', 'floor']",2,Picking [something] up,bottle,1,35
+14485,123079,picking bottle up,Picking [something] up,['bottle'],1,Picking [something] up,bottle,1,14
+639,189382,picking bottle up,Picking [something] up,['bottle'],1,Picking [something] up,bottle,1,23
+7265,33355,moving bottle up,Moving [something] up,['bottle'],1,Picking [something] up,bottle,1,38
+6036,104163,taking water bottle out of helmet,Taking [something] out of [something],"['water bottle', 'helmet']",2,Picking [something] up,bottle,1,53
+5777,149345,picking bottle up,Picking [something] up,['bottle'],1,Picking [something] up,bottle,1,39
+8416,141700,taking bottle,Taking [one of many similar things on the table],['bottle'],1,Picking [something] up,bottle,1,45
+6843,91572,lifting plastic bottle up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['plastic bottle'],1,Picking [something] up,bottle,1,57
+3286,153283,moving a bottle up,Moving [something] up,['a bottle'],1,Picking [something] up,bottle,1,64
+12432,53214,taking bottles,Taking [one of many similar things on the table],['bottles'],1,Picking [something] up,bottle,1,43
+7887,112321,moving pen up,Moving [something] up,['pen'],1,Picking [something] up,pen,1,45
+13553,49163,moving pen up,Moving [something] up,['pen'],1,Picking [something] up,pen,1,55
+14056,57930,taking pen,Taking [one of many similar things on the table],['pen'],1,Picking [something] up,pen,1,54
+841,77210,taking pens,Taking [one of many similar things on the table],['pens'],1,Picking [something] up,pen,1,45
+9253,13312,lifting pen up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pen'],1,Picking [something] up,pen,1,31
+3188,198039,taking pen from pen stand,Taking [something] from [somewhere],"['pen', 'pen stand']",2,Picking [something] up,pen,1,46
+13516,211776,moving pen up,Moving [something] up,['pen'],1,Picking [something] up,pen,1,44
+5944,116632,taking pens,Taking [one of many similar things on the table],['pens'],1,Picking [something] up,pen,1,31
+10030,194487,taking pen from pocket,Taking [something] from [somewhere],"['pen', 'pocket']",2,Picking [something] up,pen,1,38
+12466,13413,taking pen,Taking [one of many similar things on the table],['pen'],1,Picking [something] up,pen,1,41
+7804,152755,lifting pen up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pen'],1,Picking [something] up,pen,1,53
+13212,211176,taking a pen out of a desk organizer,Taking [something] out of [something],"['a pen', 'a desk organizer']",2,Picking [something] up,pen,1,45
+2916,120900,moving pen up,Moving [something] up,['pen'],1,Picking [something] up,pen,1,42
+11855,3092,taking pen,Taking [one of many similar things on the table],['pen'],1,Picking [something] up,pen,1,44
+11027,57042,lifting pen up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['pen'],1,Picking [something] up,pen,1,51
+12012,119112,moving marker up,Moving [something] up,['marker'],1,Picking [something] up,marker,1,43
+2029,137369,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,34
+1864,82169,moving marker up,Moving [something] up,['marker'],1,Picking [something] up,marker,1,37
+7472,6568,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,43
+8558,70034,taking marker,Taking [one of many similar things on the table],['marker'],1,Picking [something] up,marker,1,47
+2736,46951,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,37
+5188,102235,lifting a marker with a sharpener on it,Lifting [something] with [something] on it,"['a marker', 'a sharpener']",2,Picking [something] up,marker,1,49
+1320,198497,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,42
+9099,81985,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,38
+411,40841,taking marker from table,Taking [something] from [somewhere],"['marker', 'table']",2,Picking [something] up,marker,1,52
+2213,196053,taking marker,Taking [one of many similar things on the table],['marker'],1,Picking [something] up,marker,1,31
+3270,124241,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,40
+5000,16431,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,31
+14070,3866,taking marker out of mug,Taking [something] out of [something],"['marker', 'mug']",2,Picking [something] up,marker,1,40
+6485,207531,taking markers,Taking [one of many similar things on the table],['markers'],1,Picking [something] up,marker,1,41
+4086,213965,lifting glasses up completely without letting it drop down,Lifting [something] up completely without letting it drop down,['glasses'],1,Picking [something] up,glasses,1,27
+9774,53587,taking glasses out of basket,Taking [something] out of [something],"['glasses', 'basket']",2,Picking [something] up,glasses,1,40
+6840,28359,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,31
+14605,134331,picking a glasses up,Picking [something] up,['a glasses'],1,Picking [something] up,glasses,1,24
+11966,167303,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,31
+7234,183229,taking of the glasses,Taking [one of many similar things on the table],['of the glasses'],1,Picking [something] up,glasses,1,42
+12548,38793,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,31
+5006,134204,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,62
+11639,170055,taking glasses from desk,Taking [something] from [somewhere],"['glasses', 'desk']",2,Picking [something] up,glasses,1,36
+10327,165507,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,28
+8512,218484,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,31
+10528,139140,taking glasses out of box,Taking [something] out of [something],"['glasses', 'box']",2,Picking [something] up,glasses,1,28
+14497,186098,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,44
+7421,184463,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,31
+6702,213555,moving glasses up,Moving [something] up,['glasses'],1,Picking [something] up,glasses,1,31
+2232,113069,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,28
+1167,4706,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,39
+6545,171269,putting a pencil behind a pencil box,Putting [something] behind [something],"['a pencil', 'a pencil box']",2,Putting [something],pencil,1,47
+12641,79353,putting pencil on a surface,Putting [something] on a surface,['pencil'],1,Putting [something],pencil,1,30
+4845,26480,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,22
+12588,123689,"putting a pencil, a lego and a button on the table","Putting [something], [something] and [something] on the table","['a pencil', 'a lego', 'a button']",3,Putting [something],pencil,1,58
+5479,167341,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+441,133286,putting pencil and eraser on the table,Putting [something] and [something] on the table,"['pencil', 'eraser']",2,Putting [something],pencil,1,65
+14129,182735,putting pencil,Putting [something similar to other things that are already on the table],['pencil'],1,Putting [something],pencil,1,59
+3832,91597,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+14798,41828,putting pencil behind mug,Putting [something] behind [something],"['pencil', 'mug']",2,Putting [something],pencil,1,55
+7697,51990,putting pencil onto bottle,Putting [something] onto [something],"['pencil', 'bottle']",2,Putting [something],pencil,1,34
+4799,106883,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,27
+5043,16116,putting pencil on a surface,Putting [something] on a surface,['pencil'],1,Putting [something],pencil,1,51
+3150,85192,putting color pencils on a surface,Putting [something] on a surface,['color pencils'],1,Putting [something],pencil,1,42
+6691,135414,putting bottles,Putting [something similar to other things that are already on the table],['bottles'],1,Putting [something],bottle,1,40
+335,148589,putting a water bottle and a pig bank on the table,Putting [something] and [something] on the table,"['a water bottle', 'a pig bank']",2,Putting [something],bottle,1,53
+2226,51854,putting bottle on a surface,Putting [something] on a surface,['bottle'],1,Putting [something],bottle,1,49
+11419,218334,putting bottle next to cup,Putting [something] next to [something],"['bottle', 'cup']",2,Putting [something],bottle,1,38
+3728,193036,putting bottle behind ball,Putting [something] behind [something],"['bottle', 'ball']",2,Putting [something],bottle,1,30
+9927,156168,"putting water bottle, wooden stick and small marble on the table","Putting [something], [something] and [something] on the table","['water bottle', 'wooden stick', 'small marble']",3,Putting [something],bottle,1,66
+13756,66960,putting bottle on a surface,Putting [something] on a surface,['bottle'],1,Putting [something],bottle,1,38
+11613,67715,"putting bottle, comb and cucumber on the table","Putting [something], [something] and [something] on the table","['bottle', 'comb', 'cucumber']",3,Putting [something],bottle,1,49
+10523,71541,putting bottle on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['bottle'],1,Putting [something],bottle,1,63
+12346,157990,putting a bottle on a surface,Putting [something] on a surface,['a bottle'],1,Putting [something],bottle,1,35
+8715,167340,putting bottle onto can,Putting [something] onto [something],"['bottle', 'can']",2,Putting [something],bottle,1,28
+1791,61902,putting bottle next to bucket,Putting [something] next to [something],"['bottle', 'bucket']",2,Putting [something],bottle,1,36
+2572,79125,putting bottle behind bottle,Putting [something] behind [something],"['bottle', 'bottle']",2,Putting [something],bottle,1,27
+11810,22621,putting bottle on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['bottle'],1,Putting [something],bottle,1,49
+4441,91032,putting bottle and tape on the table,Putting [something] and [something] on the table,"['bottle', 'tape']",2,Putting [something],bottle,1,49
+12587,80554,putting pen and pen cap on the table,Putting [something] and [something] on the table,"['pen', 'pen cap']",2,Putting [something],pen,1,39
+9819,204466,putting a pen on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['a pen'],1,Putting [something],pen,1,49
+11617,123815,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,35
+5717,46810,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,36
+5976,213645,putting pen next to mug,Putting [something] next to [something],"['pen', 'mug']",2,Putting [something],pen,1,46
+8703,206103,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,44
+4267,72863,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,56
+6042,215469,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,34
+5742,140706,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,42
+837,105665,putting pen on a surface,Putting [something] on a surface,['pen'],1,Putting [something],pen,1,42
+13332,215140,putting pen,Putting [something similar to other things that are already on the table],['pen'],1,Putting [something],pen,1,44
+1541,217898,putting pen and cup on the table,Putting [something] and [something] on the table,"['pen', 'cup']",2,Putting [something],pen,1,68
+10806,471,putting a pen next to a pendrive,Putting [something] next to [something],"['a pen', 'a pendrive']",2,Putting [something],pen,1,55
+9967,139549,putting pen and in-ear headphone on the table,Putting [something] and [something] on the table,"['pen', 'in-ear headphone']",2,Putting [something],pen,1,64
+7286,185666,putting pen behind keyboard,Putting [something] behind [something],"['pen', 'keyboard']",2,Putting [something],pen,1,51
+13018,5606,putting battery onto book,Putting [something] onto [something],"['battery', 'book']",2,Putting [something],battery,1,30
+2770,81346,putting battery behind can,Putting [something] behind [something],"['battery', 'can']",2,Putting [something],battery,1,52
+9374,17795,putting a battery onto a calculator,Putting [something] onto [something],"['a battery', 'a calculator']",2,Putting [something],battery,1,39
+14390,205521,putting battery onto rubix cube,Putting [something] onto [something],"['battery', 'rubix cube']",2,Putting [something],battery,1,41
+3688,26689,putting a battery on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['a battery'],1,Putting [something],battery,1,55
+5109,121790,putting battery onto honey bottle,Putting [something] onto [something],"['battery', 'honey bottle']",2,Putting [something],battery,1,52
+6470,83591,putting a battery on a surface,Putting [something] on a surface,['a battery'],1,Putting [something],battery,1,50
+6463,155947,putting battery next to high lighter,Putting [something] next to [something],"['battery', 'high lighter']",2,Putting [something],battery,1,30
+6850,122048,putting battery onto jar,Putting [something] onto [something],"['battery', 'jar']",2,Putting [something],battery,1,40
+7114,148988,putting a battery behind a cup,Putting [something] behind [something],"['a battery', 'a cup']",2,Putting [something],battery,1,65
+12055,92627,putting battery onto book,Putting [something] onto [something],"['battery', 'book']",2,Putting [something],battery,1,30
+7722,170833,putting battery on a surface,Putting [something] on a surface,['battery'],1,Putting [something],battery,1,55
+13016,132605,putting battery next to ashtray,Putting [something] next to [something],"['battery', 'ashtray']",2,Putting [something],battery,1,32
+5910,142427,putting a battery on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['a battery'],1,Putting [something],battery,1,38
+4989,19381,putting battery onto plastic jar,Putting [something] onto [something],"['battery', 'plastic jar']",2,Putting [something],battery,1,47
+6137,128568,putting watch next to handphone,Putting [something] next to [something],"['watch', 'handphone']",2,Putting [something],watch,1,26
+13853,131951,"putting watch, keys and pen on the table","Putting [something], [something] and [something] on the table","['watch', 'keys', 'pen']",3,Putting [something],watch,1,70
+13532,220554,putting watch and pen on the table,Putting [something] and [something] on the table,"['watch', 'pen']",2,Putting [something],watch,1,61
+5302,169772,putting watch next to specs box,Putting [something] next to [something],"['watch', 'specs box']",2,Putting [something],watch,1,49
+5703,49184,putting watch,Putting [something similar to other things that are already on the table],['watch'],1,Putting [something],watch,1,37
+915,203010,putting watch and flashdisk on the table,Putting [something] and [something] on the table,"['watch', 'flashdisk']",2,Putting [something],watch,1,32
+5267,86776,putting watch on a surface,Putting [something] on a surface,['watch'],1,Putting [something],watch,1,39
+7540,166601,putting a watch next to a notebook,Putting [something] next to [something],"['a watch', 'a notebook']",2,Putting [something],watch,1,36
+11473,85089,putting a watch behind a box,Putting [something] behind [something],"['a watch', 'a box']",2,Putting [something],watch,1,36
+11320,55118,putting watch next to lock,Putting [something] next to [something],"['watch', 'lock']",2,Putting [something],watch,1,42
+1099,196275,putting watch on a flat surface without letting it roll,Putting [something] on a flat surface without letting it roll,['watch'],1,Putting [something],watch,1,38
+4215,166622,putting a watch behind the box,Putting [something] behind [something],"['a watch', 'the box']",2,Putting [something],watch,1,39
+9518,61480,putting watch and earrings on the table,Putting [something] and [something] on the table,"['watch', 'earrings']",2,Putting [something],watch,1,50
+7660,161256,putting a watch next to a mobile,Putting [something] next to [something],"['a watch', 'a mobile']",2,Putting [something],watch,1,35
+10268,95384,putting watch next to shoe,Putting [something] next to [something],"['watch', 'shoe']",2,Putting [something],watch,1,62
+624,110639,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,27
+7000,162145,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,28
+14362,85932,pencil falling like a rock,[Something] falling like a rock,['pencil'],1,Dropping [something],pencil,1,39
+12060,14632,a pencil falling like a rock,[Something] falling like a rock,['a pencil'],1,Dropping [something],pencil,1,48
+79,195331,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,39
+7681,27409,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,26
+6392,178568,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,29
+9277,146402,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,47
+6446,217128,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,49
+12674,197372,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,30
+4497,24567,throwing pencil in the air and letting it fall,Throwing [something] in the air and letting it fall,['pencil'],1,Dropping [something],pencil,1,36
+12823,51218,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,27
+12925,72212,throwing pencil,Throwing [something],['pencil'],1,Dropping [something],pencil,1,68
+8573,102451,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,28
+7345,121538,throwing color pencils,Throwing [something],['color pencils'],1,Dropping [something],pencil,1,32
+13639,81836,a water bottle falling like a rock,[Something] falling like a rock,['a water bottle'],1,Dropping [something],bottle,1,48
+13115,203180,bottle falling like a rock,[Something] falling like a rock,['bottle'],1,Dropping [something],bottle,1,41
+2249,87160,throwing bottle,Throwing [something],['bottle'],1,Dropping [something],bottle,1,26
+7998,5256,bottle falling like a rock,[Something] falling like a rock,['bottle'],1,Dropping [something],bottle,1,54
+10390,205933,throwing water bottle onto a surface,Throwing [something] onto a surface,['water bottle'],1,Dropping [something],bottle,1,63
+7536,15018,a plastic bottle falling like a rock,[Something] falling like a rock,['a plastic bottle'],1,Dropping [something],bottle,1,47
+2046,150920,throwing bottle,Throwing [something],['bottle'],1,Dropping [something],bottle,1,46
+2579,154854,throwing water bottle onto a surface,Throwing [something] onto a surface,['water bottle'],1,Dropping [something],bottle,1,45
+11155,35288,throwing bottle,Throwing [something],['bottle'],1,Dropping [something],bottle,1,26
+353,165440,a bottle falling like a rock,[Something] falling like a rock,['a bottle'],1,Dropping [something],bottle,1,42
+10685,62065,throwing bottle,Throwing [something],['bottle'],1,Dropping [something],bottle,1,26
+14100,152046,throwing water bottle,Throwing [something],['water bottle'],1,Dropping [something],bottle,1,44
+6506,191630,throwing a bottle,Throwing [something],['a bottle'],1,Dropping [something],bottle,1,35
+894,147405,bottle falling like a rock,[Something] falling like a rock,['bottle'],1,Dropping [something],bottle,1,42
+12394,34224,throwing bottle in the air and letting it fall,Throwing [something] in the air and letting it fall,['bottle'],1,Dropping [something],bottle,1,36
+93,130122,throwing pen onto a surface,Throwing [something] onto a surface,['pen'],1,Dropping [something],pen,1,33
+7137,108081,throwing a pen onto a surface,Throwing [something] onto a surface,['a pen'],1,Dropping [something],pen,1,19
+6526,27687,pen falling like a rock,[Something] falling like a rock,['pen'],1,Dropping [something],pen,1,39
+8857,7848,throwing pen in the air and letting it fall,Throwing [something] in the air and letting it fall,['pen'],1,Dropping [something],pen,1,32
+6296,114723,throwing pen,Throwing [something],['pen'],1,Dropping [something],pen,1,44
+13937,138877,throwing pen,Throwing [something],['pen'],1,Dropping [something],pen,1,50
+9239,45730,throwing pen,Throwing [something],['pen'],1,Dropping [something],pen,1,62
+14373,172583,throwing pen in the air and letting it fall,Throwing [something] in the air and letting it fall,['pen'],1,Dropping [something],pen,1,44
+11608,8065,throwing pen onto a surface,Throwing [something] onto a surface,['pen'],1,Dropping [something],pen,1,37
+1391,85533,pen falling like a rock,[Something] falling like a rock,['pen'],1,Dropping [something],pen,1,46
+1134,63788,pen falling like a rock,[Something] falling like a rock,['pen'],1,Dropping [something],pen,1,40
+14504,103428,pen falling like a rock,[Something] falling like a rock,['pen'],1,Dropping [something],pen,1,45
+13393,202235,pen falling like a rock,[Something] falling like a rock,['pen'],1,Dropping [something],pen,1,44
+2990,89470,throwing pen,Throwing [something],['pen'],1,Dropping [something],pen,1,62
+3069,123825,throwing pen in the air and letting it fall,Throwing [something] in the air and letting it fall,['pen'],1,Dropping [something],pen,1,21
+9191,99716,throwing brush,Throwing [something],['brush'],1,Dropping [something],brush,1,44
+13691,154650,brush falling like a rock,[Something] falling like a rock,['brush'],1,Dropping [something],brush,1,23
+913,18574,throwing brush onto a surface,Throwing [something] onto a surface,['brush'],1,Dropping [something],brush,1,62
+3382,183455,throwing brush onto a surface,Throwing [something] onto a surface,['brush'],1,Dropping [something],brush,1,62
+10997,211840,throwing brush,Throwing [something],['brush'],1,Dropping [something],brush,1,62
+4780,42955,throwing brush,Throwing [something],['brush'],1,Dropping [something],brush,1,45
+3666,45092,brush falling like a rock,[Something] falling like a rock,['brush'],1,Dropping [something],brush,1,33
+1264,134877,brush falling like a rock,[Something] falling like a rock,['brush'],1,Dropping [something],brush,1,20
+4026,214237,throwing brush onto a surface,Throwing [something] onto a surface,['brush'],1,Dropping [something],brush,1,62
+2631,5835,brush falling like a rock,[Something] falling like a rock,['brush'],1,Dropping [something],brush,1,40
+4972,205509,throwing brush in the air and letting it fall,Throwing [something] in the air and letting it fall,['brush'],1,Dropping [something],brush,1,42
+10899,25144,throwing brush,Throwing [something],['brush'],1,Dropping [something],brush,1,41
+2784,100483,throwing brush onto a surface,Throwing [something] onto a surface,['brush'],1,Dropping [something],brush,1,62
+11531,35839,throwing brush onto a surface,Throwing [something] onto a surface,['brush'],1,Dropping [something],brush,1,48
+6988,108218,throwing brush,Throwing [something],['brush'],1,Dropping [something],brush,1,62
+7674,78836,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,41
+10510,200948,throwing scissors,Throwing [something],['scissors'],1,Dropping [something],scissors,1,62
+8128,81039,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,25
+9224,101775,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,22
+14779,199674,throwing scissors,Throwing [something],['scissors'],1,Dropping [something],scissors,1,28
+7916,4838,throwing scissors onto a surface,Throwing [something] onto a surface,['scissors'],1,Dropping [something],scissors,1,62
+13708,68459,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,29
+9971,144982,throwing scissors onto a surface,Throwing [something] onto a surface,['scissors'],1,Dropping [something],scissors,1,43
+897,67741,throwing scissors onto a surface,Throwing [something] onto a surface,['scissors'],1,Dropping [something],scissors,1,32
+12627,197641,throwing scissors,Throwing [something],['scissors'],1,Dropping [something],scissors,1,53
+4134,42706,throwing scissors onto a surface,Throwing [something] onto a surface,['scissors'],1,Dropping [something],scissors,1,68
+8970,152629,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,44
+13821,60218,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,58
+7583,23928,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,28
+14799,17888,scissors falling like a rock,[Something] falling like a rock,['scissors'],1,Dropping [something],scissors,1,35
+4306,78325,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,29
+14440,160106,pulling a pencil from left to right,Pulling [something] from left to right,['a pencil'],1,Moving [something] from left to right,pencil,1,19
+4342,65932,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,28
+1851,163030,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,39
+4655,166047,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,31
+5702,124157,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,24
+359,173303,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,32
+8085,143183,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,40
+2301,68340,pushing pencil from left to right,Pushing [something] from left to right,['pencil'],1,Moving [something] from left to right,pencil,1,62
+7344,25386,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,32
+7996,113695,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,24
+8629,169947,pushing pencil from left to right,Pushing [something] from left to right,['pencil'],1,Moving [something] from left to right,pencil,1,60
+11665,179916,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,40
+10186,97335,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,28
+5294,132231,pushing color pencils from left to right,Pushing [something] from left to right,['color pencils'],1,Moving [something] from left to right,pencil,1,40
+12519,193485,pushing a bottle from left to right,Pushing [something] from left to right,['a bottle'],1,Moving [something] from left to right,bottle,1,60
+244,78908,pushing plastic bottle from left to right,Pushing [something] from left to right,['plastic bottle'],1,Moving [something] from left to right,bottle,1,51
+5752,27877,pushing plastic bottle from left to right,Pushing [something] from left to right,['plastic bottle'],1,Moving [something] from left to right,bottle,1,45
+3427,156864,pushing water bottle from left to right,Pushing [something] from left to right,['water bottle'],1,Moving [something] from left to right,bottle,1,36
+3713,169099,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,47
+1127,90911,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,38
+9702,178910,pushing a water bottle from left to right,Pushing [something] from left to right,['a water bottle'],1,Moving [something] from left to right,bottle,1,52
+6096,253,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,36
+7297,136433,pushing water bottle from left to right,Pushing [something] from left to right,['water bottle'],1,Moving [something] from left to right,bottle,1,45
+3139,105034,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,35
+1135,122430,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,59
+7500,186765,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,53
+12090,33836,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,49
+135,149097,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,63
+2826,158748,pushing bottle from left to right,Pushing [something] from left to right,['bottle'],1,Moving [something] from left to right,bottle,1,25
+13501,195395,pushing pen from left to right,Pushing [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,59
+1860,34473,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,32
+1836,144064,pushing pen from left to right,Pushing [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,37
+9036,1432,pushing pen from left to right,Pushing [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,33
+9832,106457,pulling a pen from left to right,Pulling [something] from left to right,['a pen'],1,Moving [something] from left to right,pen,1,58
+2935,129373,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,32
+6150,3256,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,37
+1509,208594,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,21
+10747,210989,pushing pen from left to right,Pushing [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,43
+216,86768,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,57
+2441,161237,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,42
+3626,133252,pushing pen from left to right,Pushing [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,51
+5813,78935,pushing pen from left to right,Pushing [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,29
+14662,198107,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,42
+8418,163422,pulling pen from left to right,Pulling [something] from left to right,['pen'],1,Moving [something] from left to right,pen,1,40
+9556,69816,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,42
+12293,195201,pushing a box from left to right,Pushing [something] from left to right,['a box'],1,Moving [something] from left to right,box,1,65
+11325,33145,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,38
+9517,61147,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,45
+4143,192100,pulling a box from left to right,Pulling [something] from left to right,['a box'],1,Moving [something] from left to right,box,1,38
+5958,173399,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,69
+14073,129654,pulling a box from left to right,Pulling [something] from left to right,['a box'],1,Moving [something] from left to right,box,1,48
+5844,35149,pulling a box from left to right,Pulling [something] from left to right,['a box'],1,Moving [something] from left to right,box,1,38
+6235,163492,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,31
+1442,114998,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,36
+5009,204724,pulling a box from left to right,Pulling [something] from left to right,['a box'],1,Moving [something] from left to right,box,1,48
+14106,77208,pulling box from left to right,Pulling [something] from left to right,['box'],1,Moving [something] from left to right,box,1,45
+8885,119708,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,57
+1977,190638,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,44
+7982,72748,pushing box from left to right,Pushing [something] from left to right,['box'],1,Moving [something] from left to right,box,1,48
+12697,154892,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,34
+1260,147415,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,63
+7284,199907,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,31
+7759,124181,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,29
+5377,174668,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,31
+13467,214050,pulling mouse from left to right,Pulling [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,59
+1870,148041,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,34
+13981,36871,pulling a mouse from left to right,Pulling [something] from left to right,['a mouse'],1,Moving [something] from left to right,mouse,1,40
+4076,197135,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,27
+1524,57777,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,31
+4732,99458,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,44
+8627,19763,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,35
+1574,166015,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,27
+1963,116913,pulling mouse from left to right,Pulling [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,56
+4957,126824,pushing mouse from left to right,Pushing [something] from left to right,['mouse'],1,Moving [something] from left to right,mouse,1,52
+1594,103679,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,22
+4169,207179,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,65
+1883,74875,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,58
+285,154170,pulling a pencil from right to left,Pulling [something] from right to left,['a pencil'],1,Moving [something] from right to left,pencil,1,46
+6434,206821,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+5700,167362,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,36
+11808,83836,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,27
+8967,148297,pulling color pencils from right to left,Pulling [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,53
+12708,175365,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,28
+611,85603,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,26
+11060,99002,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,28
+14449,71054,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,45
+6845,57724,pushing color pencils from right to left,Pushing [something] from right to left,['color pencils'],1,Moving [something] from right to left,pencil,1,64
+4254,118418,pushing pencil from right to left,Pushing [something] from right to left,['pencil'],1,Moving [something] from right to left,pencil,1,33
+12524,101160,pushing color pencil from right to left,Pushing [something] from right to left,['color pencil'],1,Moving [something] from right to left,pencil,1,28
+2507,74615,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,35
+893,116506,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,32
+4594,145721,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,58
+11584,184765,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,53
+949,71010,pulling bottle from right to left,Pulling [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,30
+3691,218033,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,32
+7502,207343,pulling bottle from right to left,Pulling [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,27
+356,88951,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,32
+9034,160140,pushing a bottle from right to left,Pushing [something] from right to left,['a bottle'],1,Moving [something] from right to left,bottle,1,59
+5458,3194,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,29
+12435,130202,pulling plastic bottle from right to left,Pulling [something] from right to left,['plastic bottle'],1,Moving [something] from right to left,bottle,1,54
+1392,90085,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,32
+1132,6705,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,44
+9436,145378,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,43
+14482,209716,pushing bottle from right to left,Pushing [something] from right to left,['bottle'],1,Moving [something] from right to left,bottle,1,35
+12651,132826,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,23
+2687,185397,pulling pen from right to left,Pulling [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,58
+2610,35642,pulling pen from right to left,Pulling [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,58
+12603,100794,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,62
+10365,199781,pulling pen from right to left,Pulling [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,28
+3779,136966,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,39
+6557,198953,pulling pen from right to left,Pulling [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,33
+1939,40639,pulling pen from right to left,Pulling [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,36
+10590,30282,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,32
+524,18268,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,26
+3277,105207,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,55
+5162,181955,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,43
+6394,105122,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,43
+14609,130515,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,57
+8430,154263,pushing pen from right to left,Pushing [something] from right to left,['pen'],1,Moving [something] from right to left,pen,1,38
+517,214703,pulling wallet from right to left,Pulling [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,46
+6916,204523,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,44
+6342,120698,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,62
+5422,185279,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,62
+6582,208237,pulling wallet from right to left,Pulling [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,50
+12676,135156,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,36
+8776,40345,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,55
+3076,63810,pulling wallet from right to left,Pulling [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,51
+5756,149783,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,41
+5698,10118,pulling a wallet from right to left,Pulling [something] from right to left,['a wallet'],1,Moving [something] from right to left,wallet,1,41
+1663,24835,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,65
+4770,62292,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,27
+1798,85821,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,35
+2570,132120,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,51
+5896,1244,pushing wallet from right to left,Pushing [something] from right to left,['wallet'],1,Moving [something] from right to left,wallet,1,47
+1109,168614,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,36
+264,194184,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,49
+2434,173264,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,48
+1271,104353,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,33
+2028,66825,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,30
+8953,88784,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,34
+374,186616,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,41
+2381,156694,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,30
+4293,21785,pulling a paper from right to left,Pulling [something] from right to left,['a paper'],1,Moving [something] from right to left,paper,1,39
+2107,149768,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,34
+7203,57603,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,36
+8528,112986,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,30
+3610,59738,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,30
+10684,167676,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,34
+8333,4348,pushing paper from right to left,Pushing [something] from right to left,['paper'],1,Moving [something] from right to left,paper,1,22
