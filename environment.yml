@@ -200,4 +200,3 @@ dependencies:
   - zstd=1.4.5=h6597ccf_2
   - pip:
     - scikit-video==1.1.11
-prefix: /nfs/snorlax/home/data/vision8/stsutsui/home/action-general/public/conda
